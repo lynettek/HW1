@@ -1,0 +1,120 @@
+
+
+
+
+
+
+
+#header{
+	
+	height: .4px;
+	width:960px;
+	background:#ebebeb;
+	text-align: center;
+	padding:60px;
+	margin-right: auto;
+	margin-left:auto;}
+
+#nav{
+	
+	height: 1px;
+	width:960px;
+	background:#ebebeb;
+	text-align: center;
+	padding:50px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+#container {width: 940px;}
+
+	#section{
+	width:495px;
+	height:280px;
+	background:#ebebeb;
+	text-align: center;
+	margin-left:13.5%;
+	padding-top: 20px;
+	float-left;
+	margin-right: 13.5%;
+}
+
+#article {
+    width: 400px;
+    height: 175px;
+    background:  #777;
+    padding: 25px;
+    margin: 25px;
+padding-top: 20px;
+padding:-20px;
+margin-bottom: 20px;
+padding-bottom: 20px;
+}
+    
+#aside{
+	width:510px;
+	height:270px;
+	background:#ebebeb;
+	text-align: center;
+    padding-top: 30px;
+	float:right;
+	margin-left: 20px;
+	position-top:300px;
+	position-left:300px;
+	position:relative;
+	top:-299px;
+	left:-135px;
+	right: 80px;
+	padding-left: 20px;
+	padding-right:10px;
+	}
+
+	#headings{width: 350px;
+    height: 20px;
+    background:  #ebebeb;
+    padding: 25px;
+    margin: 25px;
+padding-top: 20px;
+padding:-20px;
+margin-bottom: 10px;
+border-left:20px;
+margin-right:20px;
+left:-2px;
+position:relative;
+left:-30Px;
+right:0px;}
+
+#paragraph{width: 363px;
+	height: 20px;
+    background:  #ebebeb;
+    padding: 25px;
+    margin-right: : 20px;
+    margin-left:20px;
+    border-left: 20px;
+    padding-top: 10px;
+position:relative;
+padding-left: 20px;
+margin-bottom: 10px;
+left:-45px;
+top:20px;
+right:45px;}
+
+
+#footer {
+   bottom:50px;
+   width:1060px;
+   height:80px; 
+   background:#ebebeb;
+   text-align: center;
+    padding-top: 60px;
+   margin-right:auto;
+   margin-left:auto;
+   position:relative;
+   top:-290px;
+
+}
+
+
+
+
+	
